@@ -1,6 +1,12 @@
 
-* {
+body {
+  font-family: helvetica;
   box-sizing: border-box;
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
 }
 
 li {
@@ -9,6 +15,7 @@ li {
 
 a {
   text-decoration: none;
+  text-align: center;
 }
 
 header {
@@ -18,7 +25,9 @@ header {
 .my-nav {
   margin: 0;
   padding: 0;
+  width: 100%;
   display: flex;
+  justify-content: center;
   }
 
 .my-nav li {
@@ -28,6 +37,8 @@ header {
 #bio {
   display: flex;
   flex-direction: column;
+  padding-left: 300px;
+  padding-right: 300px;
 }
 
 .bio {
