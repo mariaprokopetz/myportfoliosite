@@ -12,6 +12,7 @@ ul {
 
 li {
   list-style-type: none;
+  font-family: 'Pacifico', cursive;
 }
 #bio h1 {
   font-family: 'Pacifico', cursive;
@@ -29,7 +30,7 @@ header {
 
 .ruby {
   max-width: 10rem;
-  max-height: auto;
+  max-height: 50px;
 }
 .my-nav {
   margin: 0;
