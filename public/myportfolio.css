@@ -31,17 +31,18 @@ header {
 
 .ruby {
   max-width: 10rem;
-  max-height: 50px;
+  max-height: 30px;
 }
 
 .js {
   max-width: 10rem;
-  max-height: 50px;
+  max-height: 30px;
+  height: 100px;
 }
 
 .htmlcss {
-  max-width: 12rem;
-  max-height: 80px;
+  max-width: 10rem;
+  max-height: 30px;
 }
 
 .my-nav {
