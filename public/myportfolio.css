@@ -16,6 +16,7 @@ li {
 }
 #bio h1 {
   font-family: 'Pacifico', cursive;
+  font-size: 40px;
 
 }
 
@@ -32,6 +33,17 @@ header {
   max-width: 10rem;
   max-height: 50px;
 }
+
+.js {
+  max-width: 10rem;
+  max-height: 50px;
+}
+
+.htmlcss {
+  max-width: 12rem;
+  max-height: 80px;
+}
+
 .my-nav {
   margin: 0;
   padding: 0;
