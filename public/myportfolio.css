@@ -3,7 +3,7 @@ body {
   font-family: helvetica;
   box-sizing: border-box;
   text-align: center;
-
+  cursor: url('http://media.tumblr.com/tumblr_m2wj5wgjie1qfamg6.gif', crosshair);
 }
 
 ul {
@@ -17,12 +17,25 @@ li {
 #bio h1 {
   font-family: 'Pacifico', cursive;
   font-size: 40px;
+  color: #BF95D6;
 
 }
 
 a {
   text-decoration: none;
   text-align: center;
+}
+
+a:visited {
+  color: #BF95D6;
+}
+
+a:active {
+  color: #B983D7;
+}
+
+a:hover {
+  color: black;
 }
 
 header {
