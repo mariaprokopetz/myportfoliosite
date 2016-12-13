@@ -3,8 +3,15 @@ body {
   font-family: helvetica;
   box-sizing: border-box;
   text-align: center;
-  cursor: url('http://media.tumblr.com/tumblr_m2wj5wgjie1qfamg6.gif', crosshair);
 }
+
+h1 {
+  margin: 0;
+}
+html {
+  cursor: url(lil-qt.gif) 2 2, pointer;
+}
+
 
 ul {
   display: inline-block;
