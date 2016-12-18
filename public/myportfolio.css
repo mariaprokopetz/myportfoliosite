@@ -12,7 +12,6 @@ html {
   cursor: url(lil-qt.gif) 2 2, pointer;
 }
 
-
 ul {
   display: inline-block;
 }
@@ -51,12 +50,12 @@ header {
 
 .ruby {
   max-width: 10rem;
-  max-height: 50px;
+  max-height: 70px;
 }
 
 .js {
   max-width: 10rem;
-  max-height: 50px;
+  max-height: 70px;
 }
 
 .htmlcss {
